@@ -1,4 +1,4 @@
-# Countdown Timer
+ # Countdown Timer
 
 * The Gen Z Countdown Timer is a stylish web app.
 * Lets users set multiple countdowns with custom titles, times, and sounds.
