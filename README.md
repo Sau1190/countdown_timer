@@ -7,6 +7,7 @@
 * Designed with vibrant visuals and animations, it alerts users with sound and effects when an event goes live.
 
 ** Tools used for development **
+
 * HTML
 * CSS
 * JAVASCRIPT
