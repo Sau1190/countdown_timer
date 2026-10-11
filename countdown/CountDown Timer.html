@@ -96,13 +96,18 @@
   </style>
 </head>
 <body>
+  
   <h1>🔥 Gen Z Countdown Vibes 🔥</h1>
+  
   <div class="container">
+  
     <input type="text" id="eventTitle" placeholder="📅 Event Name">
     <input type="date" id="dateInput">
     <input type="time" id="timeInput">
     <button onclick="addCountdown()">➕ Add Countdown</button>
+  
   </div>
+  
   <div id="timers"></div>
 
   <!-- Link your custom sound (place in same folder as this HTML) -->
@@ -113,6 +118,7 @@
   </audio>
 
   <script>
+    
     const alarm = document.getElementById('alarmSound');
 
     function addCountdown() {
@@ -149,6 +155,7 @@
         display.textContent = `${days}d ${hours}h ${minutes}m ${seconds}s`;
       }, 1000);
     }
+    
   </script>
 </body>
 </html>
