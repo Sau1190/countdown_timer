@@ -1,14 +1,4 @@
-# Countdown Timer
-
-* The Gen Z Countdown Timer is a stylish web application which basically work as a timer.
-* Lets users set multiple countdowns with custom titles, times, and sounds.
-* Designed with vibrant visuals and animations, it alerts users with sound and effects when an event goes live.
-
-# Tools used for development :
-* HTML
-* CSS
-* JAVASCRIPT
-
-
-
-
+* **Gen Z Countdown Timer:** A stylish web application for setting multiple custom timers.
+* **Customization:** Personalize countdowns with unique titles, times, and sounds.
+* **Alerts & Design:** Features vibrant animations and triggers audio/visual effects when an event goes live.
+* **Tech Stack:** Built using HTML, CSS, and JavaScript.
