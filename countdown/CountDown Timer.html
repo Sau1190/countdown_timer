@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -7,7 +6,6 @@
   <style>    
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
     * { box-sizing: border-box; }
-    
     body {
       font-family: 'Poppins', sans-serif;
       background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
@@ -118,7 +116,6 @@
   </audio>
 
   <script>
-    
     const alarm = document.getElementById('alarmSound');
 
     function addCountdown() {
@@ -154,8 +151,7 @@
         const seconds = Math.floor((diff / 1000) % 60);
         display.textContent = `${days}d ${hours}h ${minutes}m ${seconds}s`;
       }, 1000);
-    }
-    
+    }   
   </script>
 </body>
 </html>
